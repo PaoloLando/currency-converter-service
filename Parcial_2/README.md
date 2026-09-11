@@ -1,5 +1,14 @@
 # 🪙 Service-Currency-Converter | Spring Boot REST Microservice
 
+![Java 17](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot 3.2.5](https://img.shields.io/badge/Spring_Boot-3.2.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-224C87?style=for-the-badge&logo=database&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+---
+
 Microservicio backend desarrollado en Java 17 y Spring Boot 3.2.5 para la sincronización, persistencia y conversión de cotizaciones de divisa en tiempo real. 
 
 Este proyecto nace como un **proceso de refactorización arquitectónica**: se migró una aplicación monolítica de escritorio basada en Java Swing y scraping frágil con Jsoup hacia una **API REST desacoplada, reactiva y autónoma**.
