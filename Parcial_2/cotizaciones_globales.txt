@@ -1,0 +1,7 @@
+Real Brasileño;213.68
+Peso Argentino;1.0
+Dólar Estadounidense;1176.47
+Libra Esterlina;1600.0
+Euro;1366.12
+Yen Japonés;8.12
+hola;3500.0
