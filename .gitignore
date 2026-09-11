@@ -1,0 +1,27 @@
+# Target / Compilación Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# IDE - NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# IDE - IntelliJ / Eclipse / VS Code
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Logs y Archivos Temporales
+*.log
+*.tmp
+cotizaciones_globales.txt
+monedas.txt
